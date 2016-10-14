@@ -1,0 +1,4 @@
+#ios*.xccheckout*.hmap
+*.xcuserstate
+*.xcscheme
+*.DS_Store
